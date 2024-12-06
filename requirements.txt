@@ -1,0 +1,15 @@
+#python==3.10.12
+tensorflow==2.17.0
+keras
+scikit-learn
+matplotlib
+seaborn
+plotly
+tqdm
+Flask
+xgboost
+mlxtend
+whois
+urllib3
+requests
+googlesearch-python
